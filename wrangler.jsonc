@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "decap-auth-gateway",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "nonono",
+			"database_id": "9b3fd0e0-20f5-427d-ae93-ae511d9a9fe2"
+		}
+	]
+}
